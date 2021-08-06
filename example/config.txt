@@ -1,0 +1,2 @@
+Prefix plugins/PoreChop/example
+Plugin PoreChop inputfile basecalled.fastq.gz outputfile trimmed.fastq.gz
